@@ -5,7 +5,7 @@ This repository contains the code for a simple login page created using HTML and
 Follow these steps to set up the login page on your local machine:
 
 **Clone the Repository:** Clone this repository to your local machine using the following command:
-git clone https://github.com/your-username/login-page-html-css.git
+git clone https://github.com/Shobana1711/Login/tree/main
 **Navigate to the Directory:** Change your working directory to the cloned repository:
 cd login-page-html-css
 **Open the Files:** You'll find two files in the repository:
